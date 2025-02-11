@@ -17,7 +17,7 @@ pip install -r requirements.txt
 ## Usage
 Run the script to launch the Gradio interface:
 ```bash
-python app.py
+python TEXT_TO_IMG.py
 ```
 
 ## Credits
